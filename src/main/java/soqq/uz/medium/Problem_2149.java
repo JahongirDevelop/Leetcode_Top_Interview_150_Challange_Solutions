@@ -11,7 +11,6 @@ public class Problem_2149 {
     }
 
     public static int[] rearrangeArray(int[] nums) {
-
         List<Integer> positive = new ArrayList<>();
         List<Integer> negative = new ArrayList<>();
 
