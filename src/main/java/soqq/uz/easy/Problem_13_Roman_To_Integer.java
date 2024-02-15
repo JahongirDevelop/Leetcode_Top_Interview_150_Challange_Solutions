@@ -1,4 +1,4 @@
-package soqq.uz.medium;
+package soqq.uz.easy;
 
 import java.util.HashMap;
 
