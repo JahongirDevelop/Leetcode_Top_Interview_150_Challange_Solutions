@@ -1,6 +1,11 @@
 package soqq.uz.easy;
 
 public class Problem_997_Find_The_Town_Judge {
+    /*
+      Path :
+      https://leetcode.com/problems/find-the-town-judge
+      */
+
     public static void main(String[] args) {
     int n = 3;
     int[][] trust = {{1,3},{2,3},{3,1}};
