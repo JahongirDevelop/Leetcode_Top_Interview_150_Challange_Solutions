@@ -1,6 +1,5 @@
 package soqq.uz.easy;
 
-
 public class Problem_268_Missing_Number {
 
     public static void main(String[] args) {
