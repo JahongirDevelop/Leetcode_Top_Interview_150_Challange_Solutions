@@ -1,6 +1,5 @@
 package soqq.uz.easy;
 public class Problem_268_Missing_Number {
-
     public static void main(String[] args) {
         int[] nums = {0,1,3};
         System.out.println(missingNumber(nums));
