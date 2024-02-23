@@ -1,6 +1,6 @@
 package soqq.uz.easy;
 
-import java.util.Arrays;
+
 
 public class Problem_268_Missing_Number {
 
