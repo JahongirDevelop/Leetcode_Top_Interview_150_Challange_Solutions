@@ -5,7 +5,7 @@ import java.util.Set;
 
 public class Problem_202_Happy_Number {
     /*
-     Path :
+     Path:
       https://leetcode.com/problems/happy-number
       */
 
