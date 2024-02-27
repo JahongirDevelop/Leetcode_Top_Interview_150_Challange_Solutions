@@ -31,10 +31,8 @@ public class Problem_202_Happy_Number {
                 }
 
                 // Update n with the sum of the squares of its digits
-
                 n = sum;
             }
-
             // If n is 1, it is a happy number; otherwise, it is not
             return n == 1;
         }
