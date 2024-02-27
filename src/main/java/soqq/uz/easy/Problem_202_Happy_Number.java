@@ -17,7 +17,6 @@ public class Problem_202_Happy_Number {
             Set<Integer> seen = new HashSet<>();
 
             // Loop until either n becomes 1 (in which case n is a happy number) or n is seen again (in which case n is not a happy number)
-
             while (n != 1 && !seen.contains(n)) {
                 // Add n to the set of seen numbers
                 seen.add(n);
@@ -29,7 +28,6 @@ public class Problem_202_Happy_Number {
                     sum += digit * digit;
                     n /= 10;
                 }
-
                 // Update n with the sum of the squares of its digits
                 n = sum;
             }
