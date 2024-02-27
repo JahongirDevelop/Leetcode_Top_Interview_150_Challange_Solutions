@@ -12,7 +12,7 @@ public class Problem_202_Happy_Number {
     public static void main(String[] args) {
         System.out.println(isHappy(19));
     }
-        public static boolean isHappy(int n) {
+    public static boolean isHappy(int n) {
             // Create a set to keep track of the numbers that have already been seen
             Set<Integer> seen = new HashSet<>();
 
