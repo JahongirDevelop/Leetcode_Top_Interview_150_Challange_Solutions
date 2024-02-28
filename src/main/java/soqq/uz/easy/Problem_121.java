@@ -10,7 +10,6 @@ public class Problem_121 {
         int[] nums = {7,1,5,3,6,4};
         System.out.println(maxProfit(nums)); // output 6 - 1 = 5
     }
-
     public static int maxProfit(int[] prices) {
         int lsf = Integer.MAX_VALUE;
         int op = 0;
