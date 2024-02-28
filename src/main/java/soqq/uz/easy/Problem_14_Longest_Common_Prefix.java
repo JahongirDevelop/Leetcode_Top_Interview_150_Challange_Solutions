@@ -11,6 +11,7 @@ public class Problem_14_Longest_Common_Prefix {
         String[] strings = {"flower","flow","flight"};
         System.out.println(longestCommonPrefix(strings));
     }
+
     public static String longestCommonPrefix(String[] strs) {
         Arrays.sort(strs);
         String s1 = strs[0];
