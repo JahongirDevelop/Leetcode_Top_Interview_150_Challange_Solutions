@@ -7,7 +7,6 @@ public class Problem_14_Longest_Common_Prefix {
       Path :
       https://leetcode.com/problems/longest-common-prefix
       */
-
     public static void main(String[] args) {
         String[] strings = {"flower","flow","flight"};
         System.out.println(longestCommonPrefix(strings));
