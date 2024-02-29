@@ -11,8 +11,7 @@ public class Problem_121 {
     }
     public static int maxProfit(int[] prices) {
         int lsf = Integer.MAX_VALUE;
-        int op = 0;
-        int pist;
+        int op = 0; int pist;
 
         for(int i = 0; i < prices.length; i++){
             if(prices[i] < lsf){
