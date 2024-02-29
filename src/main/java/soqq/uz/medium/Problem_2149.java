@@ -1,9 +1,6 @@
 package soqq.uz.medium;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.List;
-
+import java.util.*;
 public class Problem_2149 {
     public static void main(String[] args) {
         int[] nums = {3,1,-2,-5,2,-4};
