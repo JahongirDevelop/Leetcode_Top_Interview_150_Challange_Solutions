@@ -7,6 +7,7 @@ public class Problem_88_Merge_Sorted_Array {
       Path :
       https://leetcode.com/problems/merge-sorted-array
       */
+
     public static void main(String[] args) {
         int[] nums1 = {1,2,3,0,0,0}, nums2 = {2,5,6};
         int n = 3, m = 3;
