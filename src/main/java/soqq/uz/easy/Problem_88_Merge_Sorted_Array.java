@@ -2,7 +2,6 @@ package soqq.uz.easy;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
 public class Problem_88_Merge_Sorted_Array {
     /*
       Path :
@@ -13,7 +12,6 @@ public class Problem_88_Merge_Sorted_Array {
         int n = 3, m = 3;
         merge(nums1, n, nums2, m);
     }
-
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
         List<Integer> lis1 = new ArrayList<>(m + n);
         if (nums2.length != 0) {
