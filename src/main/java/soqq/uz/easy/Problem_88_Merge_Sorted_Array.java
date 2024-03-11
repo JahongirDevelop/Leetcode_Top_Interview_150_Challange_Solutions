@@ -2,7 +2,6 @@ package soqq.uz.easy;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
 public class Problem_88_Merge_Sorted_Array {
     /*
       Path :
